@@ -36,7 +36,7 @@ This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). By particip
 
 ```bash
 # Clone & enter
-git clone https://github.com/radanliev/oreilly-agentic-ai-bootcamp.git
+git clone https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp.git
 cd oreilly-agentic-ai-bootcamp
 
 # Create environment
@@ -166,9 +166,9 @@ fix(oreilly-agentic-ai-bootcamp): resolve eBPF map collision in capture_admissio
 
 ## 🙋 Getting Help
 
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/radanliev/oreilly-agentic-ai-bootcamp/discussions)
-- 🐛 **Issues**: [Bug Reports](https://github.com/radanliev/oreilly-agentic-ai-bootcamp/issues/new?template=bug_report.md)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/discussions)
+- 🐛 **Issues**: [Bug Reports](https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/issues/new?template=bug_report.md)
 - 📧 **Security**: security@radanliev.com (for responsible disclosure)
-- 📚 **Docs**: [Documentation](https://radanliev.github.io/oreilly-agentic-ai-bootcamp/)
+- 📚 **Docs**: [Documentation](https://jedi-master-council.github.io/oreilly-agentic-ai-bootcamp/)
 
 Thank you for advancing agentic AI security science! 🔬🛡️

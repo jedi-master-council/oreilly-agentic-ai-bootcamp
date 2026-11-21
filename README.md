@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/radanliev/oreilly-agentic-ai-bootcamp/main/assets/logo.svg" alt="O'Reilly Bootcamp Logo" width="180">
+  <img src="https://raw.githubusercontent.com/jedi-master-council/oreilly-agentic-ai-bootcamp/main/assets/logo.svg" alt="O'Reilly Bootcamp Logo" width="180">
 </p>
 
 <h1 align="center">Securing Agentic AI Systems Bootcamp</h1>
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/radanliev/oreilly-agentic-ai-bootcamp/ci.yml?branch=main&label=Build&style=flat-square" alt="Build Status"></a>
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/radanliev/oreilly-agentic-ai-bootcamp/ci.yml?branch=main&label=Build&style=flat-square" alt="Build Status"></a>
   <a href="https://pypi.org/project/oreilly-agentic-ai-bootcamp/"><img src="https://img.shields.io/pypi/v/oreilly-agentic-ai-bootcamp?style=flat-square&label=PyPI" alt="PyPI Version"></a>
   <a href="https://pypi.org/project/oreilly-agentic-ai-bootcamp/"><img src="https://img.shields.io/pypi/pyversions/oreilly-agentic-ai-bootcamp?style=flat-square" alt="Python Versions"></a>
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/radanliev/oreilly-agentic-ai-bootcamp?style=flat-square" alt="License"></a>
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/stargazers"><img src="https://img.shields.io/github/stars/radanliev/oreilly-agentic-ai-bootcamp?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/radanliev/oreilly-agentic-ai-bootcamp?style=flat-square" alt="License"></a>
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/stargazers"><img src="https://img.shields.io/github/stars/radanliev/oreilly-agentic-ai-bootcamp?style=flat-square" alt="Stars"></a>
   <a href="https://www.oreilly.com/live-events/securing-agentic-ai-systems-bootcamp/0642572411589/"><img src="https://img.shields.io/badge/O%27Reilly-Live%20Bootcamp-blue?style=flat-square" alt="O'Reilly Live Bootcamp"></a>
 </p>
 
@@ -100,7 +100,7 @@ Participants leave with **five repeatable assurance patterns** — each grounded
 
 ### Clone and Install
 ```bash
-git clone https://github.com/radanliev/oreilly-agentic-ai-bootcamp.git
+git clone https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp.git
 cd oreilly-agentic-ai-bootcamp
 pip install -e ".[dev]"
 ```
@@ -186,7 +186,7 @@ oreilly-agentic-ai-bootcamp/
   author={Radanliev, Petar},
   year={2025},
   note={O'Reilly Live Bootcamp},
-  url={https://github.com/radanliev/oreilly-agentic-ai-bootcamp}
+  url={https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp}
 }
 ```
 
@@ -240,8 +240,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for workflow.
 </p>
 
 <p align="center">
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/stargazers">⭐ Star</a> •
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/fork">🍴 Fork</a> •
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/issues">🐛 Report Issue</a> •
-  <a href="https://github.com/radanliev/oreilly-agentic-ai-bootcamp/discussions">💬 Discuss</a>
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/stargazers">⭐ Star</a> •
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/fork">🍴 Fork</a> •
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/issues">🐛 Report Issue</a> •
+  <a href="https://github.com/jedi-master-council/oreilly-agentic-ai-bootcamp/discussions">💬 Discuss</a>
 </p>
